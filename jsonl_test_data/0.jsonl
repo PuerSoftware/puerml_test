@@ -1,0 +1,7 @@
+{"int": 0, "string": "foo\n0", "list": ["bar\n0"], "dict": {"baz0": 0}}
+{"int": 1, "string": "foo\n1", "list": ["bar\n0", "bar\n1"], "dict": {"baz0": 0, "baz1": 1}}
+{"int": 2, "string": "foo\n2", "list": ["bar\n0", "bar\n1", "bar\n2"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2}}
+{"int": 3, "string": "foo\n3", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3}}
+{"int": 4, "string": "foo\n4", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3", "bar\n4"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4}}
+{"int": 5, "string": "foo\n5", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3", "bar\n4", "bar\n5"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4, "baz5": 5}}
+{"int": 6, "string": "foo\n6", "list": ["bar\n0", 

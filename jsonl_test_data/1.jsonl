@@ -1,0 +1,4 @@
+"bar\n1", "bar\n2", "bar\n3", "bar\n4", "bar\n5", "bar\n6"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4, "baz5": 5, "baz6": 6}}
+{"int": 7, "string": "foo\n7", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3", "bar\n4", "bar\n5", "bar\n6", "bar\n7"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4, "baz5": 5, "baz6": 6, "baz7": 7}}
+{"int": 8, "string": "foo\n8", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3", "bar\n4", "bar\n5", "bar\n6", "bar\n7", "bar\n8"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4, "baz5": 5, "baz6": 6, "baz7": 7, "baz8": 8}}
+{"int": 9, "string": "foo\n9", "list": ["bar\n0", "bar\n1", "bar\n2", "bar\n3", "bar\n4", "bar\n5", "bar\n6", "bar\n7", "bar\n8", "bar\n9"], "dict": {"baz0": 0, "baz1": 1, "baz2": 2, "baz3": 3, "baz4": 4, "baz5": 5, "baz6": 6, "baz7": 7, "baz8": 8, "baz9": 9}}
